@@ -48,3 +48,12 @@ int main() {
     return 0; // Exit status
 }
 ```
+
+# Bulleted List
+
+* Milk
+* Tea
+* Coffee
+    - Black Tea
+    - Cappuccino
+    
