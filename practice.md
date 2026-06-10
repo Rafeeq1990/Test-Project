@@ -118,6 +118,57 @@ Reference Style Link can be inserted with Square Bracket
 
 ## Table Sample
 
+---
+
+| Name | Designation | Salary |
+| --- | --- | --- | 
+| Amit | Software Engineer | $4000.00 |
+| Gaurav | Survey Programmar | $3000.00 |
+| Rafeeq | Technical Writer | $3000.00 |
+| Suraj | Web Developer | $4000.00 |
+| Baljit Grewal | Sr HR Manager | $6000.00 |
+
+# Notes in Markdown.
+
+Notes in Markdown are added with the greater than sign >. 
+
+There are different type of Notes available in Markdown.
+
+>[!Note]
+>
+>Here is some general text for a note. Replace this with your own content.
+
+>[!Tip]
+>
+> Here is some general text for a Tip. Replace this with your own content.
+
+>[!important]
+>
+>Here is some general text for a important. Replace this with your own content.
+
+>[!caution]
+>
+>Here is some general text for a caution. Replace this with your own content.
+
+
+# External Images
+
+_External Images_ can be inserted with exclamation marg and ***external*** links in the **parenthesis**.
+
+![Geek For Geeks](https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png)
+
+# Sample TXT files for download
+
+Welcome to our **collection** of sample TXT files. Plain text files are the most basic and universal type of document, readable by virtually all text editors and  word processors. These samples are ideal for _developers_, testers, and anyone working with text processing or data handling applications.
+
+## Why use our sample TXT files?
+
+* Various content types and lengths
+* Different encodings available
+* Free to download and use
+* Perfect for testing text processing and parsing
+
+
 
 
 
