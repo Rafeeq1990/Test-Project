@@ -118,6 +118,16 @@ Reference Style Link can be inserted with Square Bracket
 
 ## Table Sample
 
+---
+
+| Feature | Status | Notes |
+|:--------|:------:|------:|
+| Markdown editing | Active | Monaco-powered |
+| Live preview | Active | Scroll-synced |
+| Cloud sync | Available | 5 providers |
+| PDF export | Available | Server-rendered |
+| Dita XML | Active | Antenna House Formatter |
+| JSON | Rest API | Data Exchange |
 
 
 
