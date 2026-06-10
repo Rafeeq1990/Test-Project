@@ -179,6 +179,27 @@ Welcome to our **collection** of sample TXT files. Plain text files are the most
 | Dita XML | Active | Antenna House Formatter |
 | JSON | Rest API | Data Exchange |
 
+# Sample Notes
+
+>[!Note]
+>
+>Here is some general text for a topic. Replace this with your own content.
+
+>[!caution]
+>
+>Here is some general text for a caution. Replace this with your own content.
+
+>[!attention]
+>
+>Here is some general text for a attention. Replace this with your own content.
+
+
+
+
+
+
+
+
 [Google]: http://www.google.com
 [office 365]: https://www.office.com/
 [1]: http://www.hpe.com
