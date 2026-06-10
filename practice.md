@@ -168,17 +168,30 @@ Welcome to our **collection** of sample TXT files. Plain text files are the most
 * Free to download and use
 * Perfect for testing text processing and parsing
 
+# Sample Table file.
 
+| Feature | Status | Notes |
+|:--------|:------:|------:|
+| Markdown editing | Active | Monaco-powered |
+| Live preview | Active | Scroll-synced |
+| Cloud sync | Available | 5 providers |
+| PDF export | Available | Server-rendered |
+| Dita XML | Active | Antenna House Formatter |
+| JSON | Rest API | Data Exchange |
 
+# Sample Notes
 
+>[!Note]
+>
+>Here is some general text for a topic. Replace this with your own content.
 
+>[!caution]
+>
+>Here is some general text for a caution. Replace this with your own content.
 
-
-
-
-
-
-
+>[!attention]
+>
+>Here is some general text for a attention. Replace this with your own content.
 
 
 
@@ -191,3 +204,23 @@ Welcome to our **collection** of sample TXT files. Plain text files are the most
 [office 365]: https://www.office.com/
 [1]: http://www.hpe.com
 [Microsoft Edge]: https://www.msn.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
